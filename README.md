@@ -1,7 +1,9 @@
 🔍 Objective
+
 The objective of this project is to design and verify a Serial Peripheral Interface (SPI) communication system between a Master and a Slave using SystemVerilog. The system facilitates the serial transmission of 12-bit data, emphasizing modular design, FSM-based control, and testbench-based verification.
 
 🧠 Introduction to SPI
+
 SPI (Serial Peripheral Interface) is a synchronous serial communication protocol used primarily for short-distance communication. It consists of:
 
 Master: Initiates and controls communication.
